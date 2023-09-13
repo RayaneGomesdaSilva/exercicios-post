@@ -1,2 +1,2 @@
 # exercicios-post
-herois, media, imc, juros, área do triangulo
+herois, media, imc, bhaskara, área do triangulo
